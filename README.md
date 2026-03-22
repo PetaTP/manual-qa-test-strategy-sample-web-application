@@ -1,2 +1,13 @@
-# manual-qa-test-strategy-sample-web-application
-Manual QA test strategy sample demonstrating test planning, risk analysis, and scenario coverage.
+# Manual QA Test Strategy Sample – Web Application
+
+This repository contains a manual testing strategy document created as part of my QA portfolio.
+
+It demonstrates:
+
+• test planning and scope definition  
+• risk analysis  
+• scenario coverage  
+• structured documentation  
+• clear communication for development teams  
+
+This sample reflects the type of analysis I provide in contract QA roles.
